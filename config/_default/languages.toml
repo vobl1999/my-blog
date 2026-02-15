@@ -1,27 +1,27 @@
 [en]
     languageName = "English"
-    title        = "Hugo Theme Stack"
-    weight       = 1
+    title        = "vobl"
+    weight       = 2
     [en.params.sidebar]
-        subtitle = "Card-style Hugo theme designed for bloggers"
+        subtitle = "Welcome to my blog"
 
 [zh]
     languageName = "简体中文"
-    title        = "Hugo 主题 Stack"
-    weight       = 2
+    title        = "vobl"
+    weight       = 1
     [zh.params.sidebar]
-        subtitle = "为博客设计的卡片式 Hugo 主题"
+        subtitle = "欢迎来到我的博客"
 
 [zh-hant-tw]
-    languageName = "正體中文"
-    title        = "Hugo 主題 Stack"
+    languageName = "繁體中文"
+    title        = "vobl"
     weight       = 3
     [zh-hant-tw.params.sidebar]
-        subtitle = "為博客設計的卡片式 Hugo 主題"
+        subtitle = "欢迎来到我的博客"
 
 [ja]
     languageName = "日本語"
-    title        = "Hugo Theme Stack"
+    title        = "vobl"
     weight       = 4
     [ja.params.sidebar]
-        subtitle = "ブログ用のカードスタイルの Hugo テーマ"
+        subtitle = "Welcome to my blog"

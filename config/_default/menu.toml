@@ -1,13 +1,13 @@
 [[social]]
-    identifier = "github"
-    name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    identifier = "抖音"
+    name       = "抖音"
+    url        = "https://www.douyin.com/user/MS4wLjABAAAAIHl26glyy12oz6SXxRDgL4Bh18y6Z3jBdQO5FcVzWTM?from_tab_name=main"
     [social.params]
-        icon = "brand-github"
+        icon = "brand-tiktok"
 
 [[social]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
+    identifier = "bilibili"
+    name       = "Bilibili"
+    url        = "https://space.bilibili.com/1271779116"
     [social.params]
-        icon = "brand-twitter"
+        icon = "brand-bilibili"
