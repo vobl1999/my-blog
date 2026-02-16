@@ -24,3 +24,6 @@ hasCJKLanguage = true
 [services.disqus]
     shortname = "hugo-theme-stack"
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
