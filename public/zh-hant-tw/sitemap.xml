@@ -61,24 +61,6 @@
                 href="http://localhost:1313/zh-hant-tw/%E9%97%9C%E6%96%BC/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/archives/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh-hant-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -138,23 +120,6 @@
                 rel="alternate"
                 hreflang="zh-hant-tw"
                 href="http://localhost:1313/zh-hant-tw/categories/documentation/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/search/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh-hant-tw/%E9%8F%88%E6%8E%A5/</loc>

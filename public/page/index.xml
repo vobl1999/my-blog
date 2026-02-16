@@ -25,9 +25,9 @@
             <description></description>
         </item><item>
             <title>搜索</title>
-            <link>http://localhost:1313/search/</link>
+            <link>http://localhost:1313/%E6%90%9C%E7%B4%A2/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/search/</guid>
+            <guid>http://localhost:1313/%E6%90%9C%E7%B4%A2/</guid>
             <description></description>
         </item></channel>
 </rss>

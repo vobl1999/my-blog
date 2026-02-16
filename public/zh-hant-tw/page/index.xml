@@ -12,18 +12,6 @@
             <guid>http://localhost:1313/zh-hant-tw/%E9%97%9C%E6%96%BC/</guid>
             <description></description>
         </item><item>
-            <title>歸檔</title>
-            <link>http://localhost:1313/zh-hant-tw/archives/</link>
-            <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/zh-hant-tw/archives/</guid>
-            <description></description>
-        </item><item>
-            <title>搜索</title>
-            <link>http://localhost:1313/zh-hant-tw/search/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/zh-hant-tw/search/</guid>
-            <description></description>
-        </item><item>
             <title>鏈接</title>
             <link>http://localhost:1313/zh-hant-tw/%E9%8F%88%E6%8E%A5/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
