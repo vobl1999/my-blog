@@ -2,13 +2,13 @@
 title: "链接"
 links:
   - title: GitHub
-    description: GitHub 是世界上最大的软件开发平台。
-    website: https://github.com
+    description: 这是我的Github
+    website: https://github.com/vobl1999
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript 是 JavaScript 的一个超集，它可以编译成纯 JavaScript。
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: 抖音
+    description: 欢迎来到我的抖音主页
+    website: https://www.douyin.com/user/MS4wLjABAAAAIHl26glyy12oz6SXxRDgL4Bh18y6Z3jBdQO5FcVzWTM?from_tab_name=main
+    image: https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/77/33/8f7733d6-aaee-ca53-d8e3-87b22090ecba/Placeholder.mill/128x128bb-75.webp
 menu:
     main: 
         weight: -50
@@ -16,21 +16,3 @@ menu:
             icon: link
 comments: false
 ---
-
-要使用此功能，请在 frontmatter 中添加 `links` 部分。
-
-此页面的 frontmatter：
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub 是世界上最大的软件开发平台。
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript 是 JavaScript 的一个超集，它可以编译成纯 JavaScript。
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` 字段支持本地和外部图像。

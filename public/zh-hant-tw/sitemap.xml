@@ -25,47 +25,6 @@
                 href="http://localhost:1313/zh-hant-tw/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/categories/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/tags/gallery/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/tags/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/tags/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/tags/gallery/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh-hant-tw/page/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -82,101 +41,6 @@
                 rel="alternate"
                 hreflang="zh-hant-tw"
                 href="http://localhost:1313/zh-hant-tw/page/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/tags/photoswipe/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/tags/photoswipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/tags/photoswipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/tags/photoswipe/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/post/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/post/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/tags/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/categories/documentation/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/categories/documentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/documentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/categories/documentation/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-hant-tw/p/image-gallery/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/p/image-gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/p/image-gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="http://localhost:1313/zh-hant-tw/p/image-gallery/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh-hant-tw/%E9%97%9C%E6%96%BC/</loc>
@@ -213,6 +77,67 @@
                 rel="alternate"
                 hreflang="zh-hant-tw"
                 href="http://localhost:1313/zh-hant-tw/archives/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant-tw/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="http://localhost:1313/zh-hant-tw/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant-tw/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="http://localhost:1313/zh-hant-tw/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant-tw/categories/documentation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/categories/documentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/documentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="http://localhost:1313/zh-hant-tw/categories/documentation/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh-hant-tw/search/</loc>
