@@ -10,7 +10,7 @@
     title        = "vobl"
     weight       = 1
     [zh.params.sidebar]
-        subtitle = "欢迎来到我的博客"
+        subtitle = ""
 
 [zh-hant-tw]
     languageName = "繁體中文"

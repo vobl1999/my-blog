@@ -1,8 +1,7 @@
 ---
-title: "免费！用自己的域名制作个人邮箱！"
-date: 2026-02-16T12:25:00+08:00
-draft: false
-image: "cover.png"
+title: "免费制作个人域名邮箱"  # 这是搜索结果的标题
+description: "教你如何利用 Cloudflare 和 Lark 搭建免费的企业邮箱" # 这是搜索结果下方的描述
+keywords: ["域名邮箱", "Lark", "Cloudflare"] # 关键词（虽然重要性在下降，但建议写上）
 ---
 ## 需要用到
 一台能上网的电脑
